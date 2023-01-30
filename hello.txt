@@ -15,5 +15,10 @@ i am lord
 i am lord
 i am lord
 i am lord
+<<<<<<< HEAD
 i am lord master test
 i am lord
+=======
+i am lord
+i am lord hot-fix test
+>>>>>>> hot-fix
