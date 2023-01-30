@@ -1,5 +1,4 @@
 i am lord
-
 i am lord22
 i am lord33
 i am lord44 hot-fix
@@ -15,10 +14,7 @@ i am lord
 i am lord
 i am lord
 i am lord
-<<<<<<< HEAD
 i am lord master test
-i am lord
-=======
-i am lord
 i am lord hot-fix test
->>>>>>> hot-fix
+remote
+
